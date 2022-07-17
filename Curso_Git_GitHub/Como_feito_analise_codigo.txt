@@ -1,0 +1,47 @@
+Como é feito a análise de um código
+
+Como é feito a análise de código:
+
+Análise léxica é a leitura do programa fonte em caracter por caraceter,
+reproduzindo simbolos lexicos(conhecidos como token)
+
+dividido em: 
+-Particionar(identifica os tokens e os agrupa), 
+-Classificar(identificarodres, palavras reservadas, números e strings)
+-Eliminar(eliminar caracter em branco e comentários)
+
+Análise sintatica
+
+sintaxe: Componente do sistema linguistico que interligam os constituintes da 
+sentença, atribuindo-lhe uma estrutura.
+
+Analise semantica:
+
+semântica: estudo do significado. Incide sobre a relação entre significantes, como: palavras, frases, sina is e simbolos.(ex: o = e == tem semanticas diferentes mas sintaticamente estao certos.)
+
+-------
+Paradigmas de programação
+
+o que é um paradigma: forma de resolução de problemas que seguem certa diretrizes e que possuem limitações especificas, a qual usa uma linguagem de programação
+
+paradigma estruturado:
+-sequência(todas as execuções são executados em sequência)
+-decisão(teste lógico)
+-iteração(funções, laços, condição)
+
+Paradigma orientação a objeti:
+-analogo ao mundo real
+
+-um objeto é descrito por caracteristicas especificas,comportamentos e  estados
+
+o que tenho(atributos), sou capaz de fazer(metodos)  e como faço(estado)
+
+
+
+
+
+
+
+
+
+
