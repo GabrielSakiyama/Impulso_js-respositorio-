@@ -1,4 +1,3 @@
 # Impulso_js-respositorio-
-Repositório onde irei guardar algumas anotações
+Repositório onde irei guardar desafios de projetos
 
-irei colocar desafio de projetos
